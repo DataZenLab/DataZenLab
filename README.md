@@ -1,10 +1,12 @@
-<!-- ========== HEADER BANNER ========== -->
+<!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="Đặng Đại Lợi - Data Science & Engineering" width="100%" />
 
-  <br><br>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+%C4%90%E1%BA%B7ng+%C4%90%E1%BA%A1i+L%E1%BB%A3i;Data+Science+Student+%40+HUFLIT+%F0%9F%8E%93;Aspiring+Data+Engineer+%F0%9F%9A%80;Building+Scalable+Data+Pipelines+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 
-  <!-- Subtitle Badges -->
+  <!-- Subtitle -->
   <p>
     <img src="https://img.shields.io/badge/Status-Data%20Science%20Student-blueviolet?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58A6FF?style=flat-square" />
@@ -12,6 +14,7 @@
     <img src="https://img.shields.io/github/followers/DataZenLab?label=Followers&style=flat-square&color=58A6FF" />
     <img src="https://komarev.com/ghpvc/?username=DataZenLab&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
   </p>
+
 </div>
 
 ---
