@@ -87,17 +87,7 @@ fun_facts:
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DataZenLab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataZenLab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataZenLab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<!-- ========== ACTIVITY GRAPH ========== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataZenLab&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" width="95%"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataZenLab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <!-- ========== DIVIDER ========== -->
@@ -114,7 +104,7 @@ fun_facts:
   </picture>
 </div>
 
-> 📌 **Lưu ý:** Cần thiết lập GitHub Action để tạo snake animation. Đặt file `snake.yml` vào `.github/workflows/` trong repo.
+
 
 <!-- ========== DIVIDER ========== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
