@@ -3,11 +3,12 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+%C4%90%E1%BA%B7ng+%C4%90%E1%BA%A1i+L%E1%BB%A3i;Data+Engineer+%7C+Building+Scalable+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+%C4%90%E1%BA%B7ng+%C4%90%E1%BA%A1i+L%E1%BB%A3i;Data+Science+Student+%40+HUFLIT+%F0%9F%8E%93;Aspiring+Data+Engineer+%F0%9F%9A%80;Building+Scalable+Data+Pipelines+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <!-- Subtitle -->
   <p>
+    <img src="https://img.shields.io/badge/Status-Data%20Science%20Student-blueviolet?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58A6FF?style=flat-square" />
     <img src="https://img.shields.io/badge/Lives-Vietnam%20🇻🇳-58A6FF?style=flat-square" />
     <img src="https://img.shields.io/github/followers/DataZenLab?label=Followers&style=flat-square&color=58A6FF" />
@@ -20,35 +21,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ========== ABOUT ME ========== -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
+> *"Turning raw data into structured insights & automated pipelines."*
 
-<table>
-<tr>
-<td width="55%">
+Hey there! 👋 I'm **Đặng Đại Lợi**, currently an undergraduate **Data Science student** at **HUFLIT** (Ho Chi Minh City University of Foreign Languages & Information Technology), with a strong passion for **Data Engineering** and modern data platforms.
 
-🎓 &nbsp;**HUFLIT** — HCM City University of Foreign Languages & Information Technology  
-📚 &nbsp;Major: **Data Science**
+- 🎓 **Education:** Undergraduate in **Data Science** @ **HUFLIT** *(In Progress)*
+- 🎯 **Aspiration:** Becoming a proficient **Data Engineer**
+- 🔭 **What I'm Learning & Building:**
+  - Designing automated **ETL / ELT workflows** and scalable data pipelines
+  - Relational database schema design with **PostgreSQL & MySQL**, plus NoSQL with **MongoDB**
+  - Workflow orchestration and scheduled pipelines using **Apache Airflow**
+  - Cloud-native analytics & storage on **Google Cloud Platform (BigQuery)**
+  - Containerizing environments with **Docker** & CI/CD workflows with **GitHub Actions**
+- ⚡ **Fun Facts & Mindset:**
+  - 💡 *“Data is the new oil”* ⛽ — but only truly valuable when refined and structured
+  - 🤖 If I have to do something more than twice, I automate it
+  - 🌱 Actively building hands-on projects & open to **Data Engineering Internship** opportunities
 
-🔭 &nbsp;I'm currently working on **scalable data pipelines & ETL/ELT workflows**  
-🌱 &nbsp;I'm currently learning **stream processing & real-time analytics**  
-☁️ &nbsp;I build on **Google Cloud Platform** (BigQuery, Dataflow)  
-🛩️ &nbsp;I orchestrate workflows with **Apache Airflow**
-
-⚡ &nbsp;Fun facts:  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 I believe **data is the new oil** ⛽  
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 I automate everything I do more than twice  
-
-</td>
-<td width="45%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 
 <!-- ========== TECH STACK ========== -->
