@@ -22,29 +22,34 @@
 <!-- ========== ABOUT ME ========== -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
-```yaml
-name: Đặng Đại Lợi
-located_in: Ho Chi Minh City, Vietnam 🇻🇳
-current_role: Data Engineer
 
-education:
-  - "HUFLIT — HCM City University of Foreign Languages & Information Technology"
-  - "Major: Data Science"
+<table>
+<tr>
+<td width="55%">
 
-experience:
-  - "Building and maintaining scalable data pipelines"
-  - "Designing data warehouse & ETL/ELT workflows"
-  - "Working with cloud-based data platforms (GCP)"
-  - "Orchestrating workflows with Apache Airflow"
+🎓 &nbsp;**HUFLIT** — HCM City University of Foreign Languages & Information Technology  
+📚 &nbsp;Major: **Data Science**
 
-currently_learning:
-  - "Stream processing & real-time analytics"
-  - "Advanced data modeling techniques"
+🔭 &nbsp;I'm currently working on **scalable data pipelines & ETL/ELT workflows**  
+🌱 &nbsp;I'm currently learning **stream processing & real-time analytics**  
+☁️ &nbsp;I build on **Google Cloud Platform** (BigQuery, Dataflow)  
+🛩️ &nbsp;I orchestrate workflows with **Apache Airflow**
 
-fun_facts:
-  - "I believe data is the new oil ⛽"
-  - "I automate everything I do more than twice 🤖"
-```
+⚡ &nbsp;Fun facts:  
+&nbsp;&nbsp;&nbsp;&nbsp;💡 I believe **data is the new oil** ⛽  
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 I automate everything I do more than twice  
+
+</td>
+<td width="45%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+</div>
+
+</td>
+</tr>
+</table>
+
 
 <!-- ========== TECH STACK ========== -->
 ## 🛠️ &nbsp;Tech Stack
