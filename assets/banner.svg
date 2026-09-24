@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f17"/>
+      <stop offset="100%" stop-color="#111722"/>
+    </linearGradient>
+    <linearGradient id="goldBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e3b341"/>
+      <stop offset="100%" stop-color="#d29922"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="2" y="2" width="846" height="246" rx="12" fill="url(#cardBg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Accent Line -->
+  <rect x="56" y="50" width="70" height="4" rx="2" fill="url(#goldBar)"/>
+
+  <!-- Name Text -->
+  <text x="56" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#f0f6fc" letter-spacing="2.5">
+    ĐẶNG ĐẠI LỢI
+  </text>
+
+  <!-- Role Subtitle Text -->
+  <text x="56" y="185" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#8b949e" letter-spacing="3.5">
+    DATA SCIENCE &amp; ENGINEERING
+  </text>
+</svg>
