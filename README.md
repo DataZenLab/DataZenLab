@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/Status-Data%20Science%20Student-blueviolet?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58A6FF?style=flat-square" />
     <img src="https://img.shields.io/badge/Lives-Vietnam%20🇻🇳-58A6FF?style=flat-square" />
-    <img src="https://img.shields.io/github/followers/DataZenLab?label=Followers&style=flat-square&color=58A6FF" />
-    <img src="https://komarev.com/ghpvc/?username=DataZenLab&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/ddloi?label=Followers&style=flat-square&color=58A6FF" />
+    <img src="https://komarev.com/ghpvc/?username=ddloi&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
   </p>
 
 </div>
@@ -81,7 +81,7 @@ Hey there! 👋 I'm **Đặng Đại Lợi**, currently an undergraduate **Data 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DataZenLab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ddloi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
@@ -91,9 +91,9 @@ Hey there! 👋 I'm **Đặng Đại Lợi**, currently an undergraduate **Data 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataZenLab/DataZenLab/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataZenLab/DataZenLab/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DataZenLab/DataZenLab/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddloi/ddloi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddloi/ddloi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ddloi/ddloi/output/github-snake-dark.svg" />
   </picture>
 </div>
 

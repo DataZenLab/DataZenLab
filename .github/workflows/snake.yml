@@ -1,5 +1,5 @@
 # GitHub Action để tạo Snake Contribution Animation
-# Đặt file này tại: .github/workflows/snake.yml trong repo DataZenLab/DataZenLab
+# Đặt file này tại: .github/workflows/snake.yml trong repo ddloi/ddloi
 
 name: Generate Snake Animation
 
